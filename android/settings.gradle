@@ -1,0 +1,3 @@
+rootProject.name = 'testreactnative_2012'
+
+include ':app'
